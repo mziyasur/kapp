@@ -18,4 +18,26 @@ Sözleşme,şartname,maliyet analizi,iş programı,use case diyagramının sunul
 Proje için gerekli hazırlıkların yapılması, kullanılacak ortamların kurulumu ve hazırlanması.
 
 3.HAFTA
-Projenin ilk taslağının oluşturulması.Web sitesinden alınacak olan  jpg ve png formatındaki verilerin incelenmesi. Kullanılacak tasarım için karar verilmesi.
+Projenin ilk taslağının oluşturulması.Web sitesinden alınacak olan jpg ve png formatındaki verilerin incelenmesi. Kullanılacak tasarım için karar verilmesi.
+
+4.HAFTA
+Arayüzün tasarlanmaya başlanılması.
+Eklenen Paketler;
+-npm install @react-navigation/native
+
+-expo install react-native-gesture-handler
+react-native-reanimated
+react-native-screens
+react-native-safe-area-context
+@react-native-community/masked-view
+
+-npm install @react-navigation/stack
+
+-npm install @react-navigation/bottom-tabs
+
+Bottom-tab iconları için kullanılanlar;
+https://ionicons.com/
+
+Kurulum ve dökümantasyon;
+https://github.com/oblador/react-native-vector-icons
+-npm install --save react-native-vector-icons
