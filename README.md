@@ -21,7 +21,8 @@ Proje için gerekli hazırlıkların yapılması, kullanılacak ortamların kuru
 Projenin ilk taslağının oluşturulması.Web sitesinden alınacak olan jpg ve png formatındaki verilerin incelenmesi. Kullanılacak tasarım için karar verilmesi.
 
 4.HAFTA
-Arayüzün tasarlanmaya başlanılması.
+Arayüzün tasarlanmaya başlanılması.StackNavigator ve BottomTabNavigator ile navigasyon işlemleri tamamlandı.
+İconlar entegre edildi.
 Eklenen Paketler;
 -npm install @react-navigation/native
 
