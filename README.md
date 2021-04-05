@@ -44,3 +44,18 @@ https://github.com/oblador/react-native-vector-icons
 -npm install --save react-native-vector-icons
 
 5.HAFTA
+
+Anasayfa tasarımı gerçekleştirildi.Background image Adobe Photoshop ile hazır hale getirildi.
+Bütün cihazlarda aynı boyutta görülmesi amacıyla responsive tasarım gerçekleştirildi, kurulumları yapıldı.(Eklenen paketler kısmında mevcut)
+
+Ürünler sayfası kategorize edildi.Button yerine TouchableOpacity kullanılarak 3 adet kategoriye bölündü.(Granit , Ankastre, Mermeraltı)
+
+Arayüz tasarımları tamamlandı.(İletişim sayfası ürün fotoğrafları ve bilgiler eklendikten sonra ilerleyen haftada eklenecek.)
+
+Eklenen Paketler;
+
+npm install react-native-responsive-screen --save
+
+Anasayfa ve Ürünler sayfası;
+
+![homepage](https://user-images.githubusercontent.com/63004778/113609335-48ef6580-9654-11eb-9efc-8e67aba7f023.png) -------------- ![ProductPage](https://user-images.githubusercontent.com/63004778/113609374-5573be00-9654-11eb-9fd8-0826c1d3228c.png)
