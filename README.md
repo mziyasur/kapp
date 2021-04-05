@@ -42,3 +42,5 @@ https://ionicons.com/
 Kurulum ve dökümantasyon;
 https://github.com/oblador/react-native-vector-icons
 -npm install --save react-native-vector-icons
+
+5.HAFTA
