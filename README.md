@@ -61,6 +61,7 @@ Anasayfa ve Ürünler sayfası;
 ![homepage](https://user-images.githubusercontent.com/63004778/113609335-48ef6580-9654-11eb-9efc-8e67aba7f023.png) -------------- ![ProductPage](https://user-images.githubusercontent.com/63004778/113609374-5573be00-9654-11eb-9fd8-0826c1d3228c.png)
 
 6.HAFTA
+
 Arayüzün emülatör ortamında test işlemleri.
 
 Navigasyon işlemleri anasayfa-ürünler-iletişim kontrol ve test işlemleri tamamlandı.
