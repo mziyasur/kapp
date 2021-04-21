@@ -1,10 +1,18 @@
 import { StatusBar } from "expo-status-bar";
 import React, { Component, useState } from "react";
-import { StyleSheet, Text, View } from "react-native";
-
+import {
+  StyleSheet,
+  Text,
+  View,
+  Button,
+  Image,
+  FlatList,
+  ImageBackground,
+} from "react-native";
 import { NavigationContainer } from "@react-navigation/native";
 import { createStackNavigator } from "@react-navigation/stack";
 import { createBottomTabNavigator } from "@react-navigation/bottom-tabs";
+import { TextInput, TouchableOpacity } from "react-native-gesture-handler";
 import Ionicons from "react-native-vector-icons/Ionicons";
 
 import ProductStackScreen from "./src/com/Product";

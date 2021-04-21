@@ -70,6 +70,7 @@ Navigasyon işlemleri anasayfa-ürünler-iletişim kontrol ve test işlemleri ta
 Herhangi bir sorun ile karşılaşılmadı.
 
 7.HAFTA
+
 Arayüze ürünlerin özellikleri ve görüntülerinin eklenmesi.
 
 Ürünler mevcut kategorilerde Granit , Ankastre , Mermeraltı ayırılarak
