@@ -71,6 +71,7 @@ Herhangi bir sorun ile karşılaşılmadı.
 
 7.HAFTA
 Arayüze ürünlerin özellikleri ve görüntülerinin eklenmesi.
+
 Ürünler mevcut kategorilerde Granit , Ankastre , Mermeraltı ayırılarak
 ürün görseli,ürün kodu(model), açıklaması , fiyatı ekleme işlemleri
 tamamlanmıştır.Kullanım için GIF formatında kayıt eklenmiştir.
