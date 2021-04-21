@@ -67,3 +67,11 @@ Navigasyon işlemleri anasayfa-ürünler-iletişim kontrol ve test işlemleri ta
 
 Ürünler sayfasında TouchableOpacity yardımıyla erişilen 3 kategori yönlendirmesi test edildi.
 Herhangi bir sorun ile karşılaşılmadı.
+
+7.HAFTA
+Arayüze ürünlerin özellikleri ve görüntülerinin eklenmesi.
+Ürünler mevcut kategorilerde Granit , Ankastre , Mermeraltı ayırılarak
+ürün görseli,ürün kodu(model), açıklaması , fiyatı ekleme işlemleri
+tamamlanmıştır.Kullanım için GIF formatında kayıt eklenmiştir.
+
+![kappson](https://user-images.githubusercontent.com/63004778/115533765-ba0f5980-a29f-11eb-8daf-ec83daf8001a.gif)
