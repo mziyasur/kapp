@@ -80,6 +80,7 @@ tamamlanmıştır.Kullanım için GIF formatında kayıt eklenmiştir.
 ![kappson](https://user-images.githubusercontent.com/63004778/115533765-ba0f5980-a29f-11eb-8daf-ec83daf8001a.gif)
 
 8.HAFTA
+
 Çıkabilecek hataların düzeltilmesi.Gerekli ayarlamaların yapılması.
 
 Bu hafta geçen hafta test işlemleri gerçekleştirildiği için herhangi bir hata olmamasından dolayı
