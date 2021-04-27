@@ -78,3 +78,13 @@ Arayüze ürünlerin özellikleri ve görüntülerinin eklenmesi.
 tamamlanmıştır.Kullanım için GIF formatında kayıt eklenmiştir.
 
 ![kappson](https://user-images.githubusercontent.com/63004778/115533765-ba0f5980-a29f-11eb-8daf-ec83daf8001a.gif)
+
+8.HAFTA
+Çıkabilecek hataların düzeltilmesi.Gerekli ayarlamaların yapılması.
+
+Bu hafta geçen hafta test işlemleri gerçekleştirildiği için herhangi bir hata olmamasından dolayı
+yeni bir özellik eklenecek. (8.Hafta tamamlandı.)
+
+İletişim kısmına bir mapview konulması firma konumunun buradan gösterimi planlanmakta.Gerekli işlemler haftaya
+projeye eklenecek.Mapview konusu araştırılacak kullanımı öğrenilecek ve projeye eklenecek. ( ekstra özellik olarak )
+
