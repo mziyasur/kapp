@@ -87,5 +87,5 @@ Bu hafta geçen hafta test işlemleri gerçekleştirildiği için herhangi bir h
 yeni bir özellik eklenecek. (8.Hafta tamamlandı.)
 
 İletişim kısmına bir mapview konulması firma konumunun buradan gösterimi planlanmakta.Gerekli işlemler haftaya
-projeye eklenecek.Mapview konusu araştırılacak kullanımı öğrenilecek ve projeye eklenecek. ( ekstra özellik olarak )-
+projeye eklenecek.Mapview konusu araştırılacak kullanımı öğrenilecek ve projeye eklenecek. ( ekstra özellik olarak )
 
