@@ -89,3 +89,11 @@ yeni bir özellik eklenecek. (8.Hafta tamamlandı.)
 İletişim kısmına bir mapview konulması firma konumunun buradan gösterimi planlanmakta.Gerekli işlemler haftaya
 projeye eklenecek.Mapview konusu araştırılacak kullanımı öğrenilecek ve projeye eklenecek. ( ekstra özellik olarak )
 
+9.HAFTA
+
+Projenin test işlemleri ve son hali.
+
+Mapview kullanımı ve kurulumu tamamlandı.
+
+Eklenen Paketler;
+-npm install react-native-maps
