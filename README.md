@@ -98,4 +98,4 @@ Mapview kullanımı ve kurulumu tamamlandı.
 Eklenen Paketler;
 -npm install react-native-maps
 
-![Screenshot_1620091058](https://user-images.githubusercontent.com/63004778/116951494-b4971380-ac90-11eb-916a-0d2ea69d68c0.png)
+![Screenshot_1620091058](https://user-images.githubusercontent.com/63004778/116951494-b4971380-ac90-11eb-916a-0d2ea69d68c0.png width="200" height="400")
