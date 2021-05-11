@@ -99,3 +99,13 @@ Eklenen Paketler;
 -npm install react-native-maps
 
 ![Screenshot_1620091058](https://user-images.githubusercontent.com/63004778/116951848-abf30d00-ac91-11eb-9073-a6acc77b231f.png)
+
+10.HAFTA
+
+Proje Teslimi
+
+Anasayfa-Ürünler-İletişim Ekranları
+
+![homepage](https://user-images.githubusercontent.com/63004778/113609335-48ef6580-9654-11eb-9efc-8e67aba7f023.png) ---- ![ProductPage](https://user-images.githubusercontent.com/63004778/113609374-5573be00-9654-11eb-9fd8-0826c1d3228c.png) ---- ![Screenshot_1620091058](https://user-images.githubusercontent.com/63004778/116951848-abf30d00-ac91-11eb-9073-a6acc77b231f.png)
+
+Kullanım Örneği 7.Haftada GIF Formatında eklenmiştir.
